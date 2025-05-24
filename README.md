@@ -6,7 +6,6 @@ MoveMate is a modern, user-friendly Flutter application designed to simplify shi
 
 - 🚚 **Shipment Tracking**: View and manage all your shipments, including pending, in-progress, and completed orders.
 - 💰 **Checkout Estimations**: Get real-time animated estimates for shipment costs.
-- 📦 **Dynamic Animations**: Delightful transitions using `flutter_animate` and smooth `AnimatedFlipCounter` updates.
 - 🧭 **Tabbed Navigation**: Easy switching between shipment statuses with a custom TabBar UI.
 - 🧑‍💼 **State Management**: Organized, component-driven architecture with shared UI helpers and constants.
 
